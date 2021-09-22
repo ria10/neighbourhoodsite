@@ -49,7 +49,7 @@ for the houses and
 for the owners.
 
 ## Query Parameters
-
+ ----------------------------------------------------------------------
 | q (string format) | SW1P1RT    | Search query term or phrase.        |
 | name              | Smith      | Last name of owner.                 |
 | street            | highstreet | Street of the address of the house. |
