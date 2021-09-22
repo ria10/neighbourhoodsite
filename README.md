@@ -4,7 +4,7 @@
 
 This API provides all the endpoints for retrieving and editing information regarding houses and their owners.
 
-## Technologies
+## Technologies 
 
 - SQL
 - PostgreSQL
